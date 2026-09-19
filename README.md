@@ -14,7 +14,7 @@
 * Ruler  
 * Scissors  
 * Colour pens  
-
+![image](stimulation.png)
 **5\. working**
 
      1\. The coin-cell battery acts as the DC source.
